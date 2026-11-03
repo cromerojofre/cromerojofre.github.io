@@ -4,13 +4,13 @@ export const en =
 {
     site:
     {
-        brand: 'My Brand',
-        tagline: 'Do more'
+        brand: 'Carolina Romero Jofré',
+        tagline: ''
     },
 
     hero:
     {
-        title: 'Welcome',
+        title: '',
         subtitle: 'Build fast',
         description: interpolate('Hello {name}! Welcome to our website.'),
         example: interpolate('Test {foo} and {bar}'), 
@@ -18,7 +18,7 @@ export const en =
 
     about:
     {
-        title: 'About',
+        title: 'Works',
         description: 'This page demonstrates a simple localized route powered by the same i18n module.'
     }
 }

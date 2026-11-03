@@ -6,13 +6,13 @@ export const es =
 {
     site:
     {
-        brand: 'Mi Marca',
-        tagline: 'Haz más'
+        brand: 'Carolina Romero Jofré',
+        tagline: ''
     },
 
     hero:
     {
-        title: 'Bienvenido',
+        title: '',
         subtitle: 'Construye rápido',
         description: interpolate('¡Hola {name}! Bienvenido a nuestro sitio web.'),
         example: interpolate('Prueba {foo} y {bar}')
@@ -20,7 +20,7 @@ export const es =
 
     about:
     {
-        title: 'Acerca de',
+        title: 'Obras',
         description: 'Esta pagina demuestra una ruta localizada simple usando el mismo modulo i18n.'
     }
 } satisfies Translations;
