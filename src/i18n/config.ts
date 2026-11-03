@@ -2,8 +2,8 @@ import type { en } from './locales/en'
 
 /** Available locales (code -> display name). */
 export const LOCALES = {
-  en: 'English',
   es: 'Español',
+  en: 'English',
 } as const
 
 /** Default locale. */
