@@ -11,8 +11,8 @@ export const en =
     hero:
     {
         title: '',
-        subtitle: 'Build fast',
-        description: interpolate('Hello {name}! Welcome to our website.'),
+        subtitle: '',
+        description: interpolate(''),
         example: interpolate('Test {foo} and {bar}'), 
     },
 

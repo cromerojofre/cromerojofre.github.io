@@ -13,14 +13,14 @@ export const es =
     hero:
     {
         title: '',
-        subtitle: 'Construye rápido',
-        description: interpolate('¡Hola {name}! Bienvenido a nuestro sitio web.'),
+        subtitle: '',
+        description: interpolate(''),
         example: interpolate('Prueba {foo} y {bar}')
     },
 
     about:
     {
         title: 'Obras',
-        description: 'Esta pagina demuestra una ruta localizada simple usando el mismo modulo i18n.'
+        description: '.'
     }
 } satisfies Translations;
